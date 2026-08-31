@@ -46,18 +46,6 @@ The goal of this project is to create a **simple, portable, and affordable obsta
 * **Basic Electronics**
 * **Sensor-Based Automation**
 
-## 📂 Repository Structure
-
-```text
-THE-THIRD-EYE-GLOVE/
-│
-├── Third_Eye_Glove.ino
-├── README.md
-├── circuit/
-│   └── circuit_diagram.png
-└── images/
-    └── prototype.jpg
-```
 
 ## 🚀 Getting Started
 
