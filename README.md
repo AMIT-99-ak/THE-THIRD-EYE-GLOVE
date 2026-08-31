@@ -88,7 +88,7 @@ Then select the appropriate COM port and upload the code.
 Add pictures of the glove, circuit, and working prototype here.
 
 ## 🔮 Future Improvements
-
+* Add a vibration motor for tactile obstacle alerts.
 * Add multiple ultrasonic sensors for wider obstacle detection.
 * Implement different audio patterns based on distance.
 * Add rechargeable battery support.
