@@ -52,12 +52,12 @@ The goal of this project is to create a **simple, portable, and affordable obsta
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/THE-THIRD-EYE-GLOVE.git
+git clone https://github.com/AMIT-99-ak/THE-THIRD-EYE-GLOVE.git
 ```
 
 ### 2. Open the Arduino code
 
-Open `Third_Eye_Glove.ino` using the **Arduino IDE**.
+Open `THIRDEYE.ino` using the **Arduino IDE**.
 
 ### 3. Connect the components
 
